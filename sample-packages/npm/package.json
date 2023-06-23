@@ -1,10 +1,11 @@
 {
+  "name": "@cvipuls/exercise-publish-package",
   "publishConfig": {
   "registry": "https://npm.pkg.github.com"
 },
   "repository": {
     "type": "git",
     "url": "https://github.com/CVipulS/exercise-publish-package.git"
-  }
-
+  },
+  "version": "1.0.0"
 }
