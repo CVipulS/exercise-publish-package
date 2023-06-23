@@ -1,3 +1,10 @@
 {
-  "your": "json config here"
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CVipulS/exercise-publish-package.git"
+  }
+
 }
